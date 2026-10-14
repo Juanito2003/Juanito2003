@@ -1,29 +1,27 @@
-# Hola, soy Juan Manuel 👋
+# Ola! Soy Juan Manuel 👋
 
-Estudiante de segundo curso de **Ingeniería Informática** en la ESEI (Universidade de Vigo, campus de Ourense).
-Me gusta construir cosas que se usen de verdad, desde la web de un negocio hasta un escáner de diagnóstico para coches.
+Vivo cerca de Verín, en Ourense, y estudio segundo de **Ingeniería Informática** en la ESEI (Universidade de Vigo, campus de Ourense).
 
-**Busco trabajo a media jornada como programador junior en Ourense**, compatible con la carrera (presencial, híbrido o remoto).
+Me gusta construir cosas que se usen de verdad: la web del restaurante donde echo una mano, la de un concesionario del pueblo o un escáner para leer lo que le pasa a un coche.
 
-## Proyectos destacados
+Cuando no estoy programando, suelo estar con el coche: diagnosis, mecánica y alguna que otra chapuza. También me tira la electrónica y la radio, y siempre tengo algún Arduino o una Raspberry Pi a medio montar.
 
-| Proyecto | Qué es | Tecnologías |
-|---|---|---|
-| [Martínez Multimarca](https://github.com/Juanito2003/multimarcamartinez) | Web para un concesionario y taller de Verín: vehículos de ocasión, galería y contacto, con aviso legal y privacidad (RGPD), CSP e imágenes optimizadas. Lighthouse móvil: 98 en rendimiento y 100 en el resto. [Vista previa →](https://juanito2003.github.io/multimarcamartinez/) | HTML, CSS, JavaScript, GitHub Actions |
-| [O Ferro Parrilla](https://github.com/Juanito2003/oferro-parrilla) | Web en desarrollo para un restaurante de Verín: carta, especialidades, reseñas y reservas. [Vista previa →](https://juanito2003.github.io/oferro-parrilla/) | HTML, CSS, JavaScript |
-| [Escáner OBD-II](https://github.com/Juanito2003/obd) | Lectura en tiempo real de datos del coche con un adaptador ELM327 y detección de fallos en los sensores TPS y MAP, con tests automáticos | Python, pytest, GitHub Actions |
-| [Aula virtual](https://github.com/Juanito2003/proyecto_3er_semestre) | Aplicación de escritorio inspirada en Moodle: cursos, planificación semanal y avisos de actividades | Java, JavaFX, Swing, Apache POI |
+## En qué ando
 
-## Tecnologías
+- 🔥 **[O Ferro Parrilla](https://github.com/Juanito2003/oferro-parrilla)**: la web del restaurante, todavía en obras. [Vista previa →](https://juanito2003.github.io/oferro-parrilla/)
+- 🚗 **[Martínez Multimarca](https://github.com/Juanito2003/multimarcamartinez)**: web para un concesionario y taller de Verín. [Vista previa →](https://juanito2003.github.io/multimarcamartinez/)
+- 🔧 **[Escáner OBD-II](https://github.com/Juanito2003/obd)**: lee los datos del coche con un adaptador ELM327 y avisa si algún sensor se porta raro.
+- 📚 **[Aula virtual](https://github.com/Juanito2003/proyecto_3er_semestre)**: una especie de Moodle de escritorio en Java que hicimos en la uni.
+- 🔌 En clase, peleándome con microcontroladores STM32 en C.
 
-- **Lenguajes:** Java, Python, C, JavaScript, HTML/CSS
-- **Herramientas:** Git, GitHub, GitHub Actions, pytest, Node.js, Linux
-- **Sistemas embebidos:** STM32 (STM32CubeMX / STM32CubeIDE), Arduino, Raspberry Pi
+## Con qué trabajo
+
+Java · Python · C · JavaScript · HTML/CSS · Git · Linux · Arduino · Raspberry Pi
 
 ## Idiomas
 
-Español y gallego (nativos) · Inglés técnico
+Gallego y español de casa, inglés técnico para leer documentación.
 
-## Contacto
+## Dónde encontrarme
 
 💼 [LinkedIn](https://www.linkedin.com/in/juanmanugp)
