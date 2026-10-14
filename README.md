@@ -1,4 +1,4 @@
-# Ola! Soy Juan Manuel 👋
+# Hola! Soy Juan Manuel 👋
 
 Vivo cerca de Verín, en Ourense, y estudio segundo de **Ingeniería Informática** en la ESEI (Universidade de Vigo, campus de Ourense).
 
